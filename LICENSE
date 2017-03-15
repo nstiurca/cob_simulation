@@ -1,0 +1,3 @@
+This package is forked from https://github.com/ipa320/cob_simulation.  This package was then modified to remove all packages other than cob_gazebo_objects.  In addition, cob_gazebo_objects/test was removed, and cob_gazebo_objects/package.xml was modified to remove the dependency on cob_description.
+
+This code uses a LGPL license, as specified by the original code release at: http://wiki.ros.org/cob_gazebo_objects.
