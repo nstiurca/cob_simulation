@@ -6,6 +6,6 @@ find_package(catkin REQUIRED COMPONENTS)
 catkin_package()
 
 ### INSTALL ###
-install(DIRECTORY Media objects test
+install(DIRECTORY Media objects
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
